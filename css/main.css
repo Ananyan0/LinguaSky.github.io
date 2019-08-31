@@ -205,7 +205,6 @@
     margin: 16px;
     border: none;
     outline: none;
-    position: absolute;
     z-index: 1;
     background-image: linear-gradient(to right, #1663d5, #1967da, #1c6ade, #1f6ee3, #2272e8); 
 }
