@@ -185,6 +185,19 @@
     border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+.top_card img{
+    width: 44px;
+    height: 44px;
+}
+
+.card-body p{
+    font-family: Open Sans;
+    font-weight: 600;
+    font-size: 16px;
+    color: #414849;
+    margin-bottom: 35px;
+}
+
 .card-title{
     font-family: Open Sans;
     font-weight: bold;
